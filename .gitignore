@@ -1,0 +1,17 @@
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Terraform directories
+.terraform/
+
+# Python cache files
+*.pyc
+__pycache__/
+
+# Azure credentials and sensitive data
+.env
+
+.DS_Store
+*.pyc
+__pycache__/
